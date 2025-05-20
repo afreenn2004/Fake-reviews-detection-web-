@@ -1,0 +1,14 @@
+flask
+torch
+transformers
+joblib
+scikit-learn
+shap
+textstat
+nltk
+contractions
+matplotlib
+pandas
+numpy
+streamlit
+gdown
